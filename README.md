@@ -11,16 +11,9 @@
 
 An intelligent blog writing and newsletter distribution system that leverages multiple AI agents to create, refine, and distribute engaging content. The system automates the entire process from research to distribution, making it perfect for content creators, marketers, and newsletter publishers.
 
-Built on top of [CrewAI](https://github.com/joaomdmoura/crewAI), this project demonstrates the power of AI agent collaboration in content creation and distribution.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/main/docs/crewai-architecture.png" alt="CrewAI Architecture" width="600">
-  <p><i>Powered by CrewAI - A framework for orchestrating role-playing AI agents</i></p>
-</div>
-
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://drive.usercontent.google.com/download?id=1R1RHHOV6suSw84tACkurq9j0e2mQua1M&export=download&authuser=0&confirm=t&uuid=4a2f42f7-7d66-45f4-b388-e8bb4326626f&at=AN8xHooe8kcz2XtCr8W9z0Fwwady:1749919213459)
 
 *Click the image above to watch the demo video*
 
