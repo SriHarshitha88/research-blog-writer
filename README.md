@@ -13,7 +13,7 @@ An intelligent blog writing and newsletter distribution system that leverages mu
 
 ## 🎥 Demo Video
 
-![Demo Video](https://github.com/user-attachments/assets/77a7ca66-7ca8-405d-8527-5db746ce38b5)
+![Demo Video](https://github.com/user-attachments/assets/7bb84553-0fff-4ec1-9f43-36c9d49ca4dd)
 
 *Click the image above to watch the demo video*
 
